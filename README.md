@@ -67,3 +67,9 @@ HSK 1
 Chino Mandarín - Aprendiendo Chino Mandarín En Línea /
 Octubre 2021 - Actualidad /
 HSK 1
+
+### Sigueme en mis redes sociales:
+- [LinkedIn] (https://www.linkedin.com/in/rodrigo-yerena-herrera-7447b1158/)
+- [Tableau] (https://public.tableau.com/app/profile/rodrigo.yerena#!/)
+- [Facebook] (https://www.facebook.com/rodrigo.yerena.77)
+- [Instagram] (https://www.instagram.com/rod_yerena.h/)
