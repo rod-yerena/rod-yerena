@@ -1,4 +1,6 @@
 ### Hi there 👋
+## Sigeme en:
+-[LinkedIn](https://www.linkedin.com/in/rodrigo-yerena-herrera-7447b1158/)
 
 <!--
 **rod-yerena/rod-yerena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
