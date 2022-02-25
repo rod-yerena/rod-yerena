@@ -69,7 +69,9 @@ Octubre 2021 - Actualidad /
 HSK 1
 
 ### Sigueme en mis redes sociales:
-- [LinkedIn][https://www.linkedin.com/in/rodrigo-yerena-herrera-7447b1158/]
-- [Tableau] (https://public.tableau.com/app/profile/rodrigo.yerena#!/)
-- [Facebook] (https://www.facebook.com/rodrigo.yerena.77)
-- [Instagram] (https://www.instagram.com/rod_yerena.h/)
+
+<a href="https://www.linkedin.com/in/rodrigo-yerena-herrera-7447b1158/9" target="_top">LinkedIn</a>
+<a href="https://public.tableau.com/app/profile/rodrigo.yerena#!/" target="_top">Tableau</a>
+<a href="https://www.facebook.com/rodrigo.yerena.77" target="_top">Facebook</a>
+<a href="https://www.instagram.com/rod_yerena.h/" target="_top">Instagram</a>
+
