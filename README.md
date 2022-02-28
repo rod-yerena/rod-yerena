@@ -1,7 +1,7 @@
   <h1 align=center>
     Hola que tal! Soy Rodrigo Yerena Herrera <br/> Ingeniero en desarrollo de software | Traductor<br/> Bienvenido a mi repositorio😃
   </h1>
-
+<p align=center>Sígueme en:</p>
   <p align=center>
     <a href="https://www.linkedin.com/in/rodrigo-yerena-herrera-7447b1158/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;&nbsp;&nbsp;
       <a href="https://public.tableau.com/app/profile/rodrigo.yerena#!/?newProfile=&activeTab=0"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />&nbsp;&nbsp;&nbsp;
