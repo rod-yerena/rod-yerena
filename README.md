@@ -79,11 +79,11 @@ de Microsoft, basada en la gestión electrónica del catalogo”.
 </p>
 <br/>	
 <p align=center>
-	FRANCÉS<br/>Alianza Francesa de Mérida.<br/>Mayo 2020 – Actualidad.<br/>B1.
+	FRANCÉS<br/>Alianza Francesa de Mérida.<br/>Mayo 2018 – Julio 2019.<br/>B1.
 </p>
 <br/>	
 <p align=center>
-	FRANCÉS<br/>Bonjour Yucatán.<br/>Mayo 2020 – Julio 2019.<br/>B1.
+	FRANCÉS<br/>Bonjour Yucatán.<br/>Mayo 2020 – Actualidad.<br/>B1.
 </p>
 <br/>	
 <p align=center>
