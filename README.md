@@ -1,5 +1,5 @@
   <h1 align=center>
-    Hola que tal! Soy Rodrigo Yerena Herrera <br/> Ingeniero en desarrollo de software💻 | Traductor🌎<br/> Bienvenido a mi repositorio😃
+    Hola que tal! Soy Rodrigo Yerena <br/> Ingeniero en desarrollo de software💻 | Traductor🌎<br/> Bienvenido a mi repositorio😃
   </h1>
 <p align=center>Sígueme en:</p>
   <p align=center>
