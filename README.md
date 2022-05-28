@@ -71,31 +71,31 @@ de Microsoft, basada en la gestión electrónica del catalogo”.
 </h2>	
 		  
 <p align=center>
-	INGLÉS<br/>Harmon Hall Mérida.<br/>Enero 2015 – Enero 2017.<br/>B1.
+	INGLÉS<br/>Harmon Hall Mérida.<br/>Enero 2015 – Enero 2017.<br/>Nivel B1.
 </p>
 <br/>
 <p align=center>
-	INGLÉS<br/>London House Academy.<br/>Marzo 2019 – Enero 2022.<br/>C1 Advanced.
+	INGLÉS<br/>London House Academy.<br/>Marzo 2019 – Enero 2022.<br/>Nivel C1.
 </p>
 <br/>	
 <p align=center>
-	FRANCÉS<br/>Alianza Francesa de Mérida.<br/>Mayo 2017 – Julio 2019.<br/>B1.
+	FRANCÉS<br/>Alianza Francesa de Mérida.<br/>Mayo 2017 – Julio 2019.<br/>Nivel B1.
 </p>
 <br/>	
 <p align=center>
-	FRANCÉS<br/>Bonjour Yucatán.<br/>Mayo 2020 – Actualidad.<br/>B1.
+	FRANCÉS<br/>Bonjour Yucatán.<br/>Mayo 2020 – Actualidad.<br/>Nivel B1.
 </p>
 <br/>	
 <p align=center>
-	ITALIANO<br/>Tutto Italiano.<br/>Junio 2019 – Actualidad.<br/>A2.
+	ITALIANO<br/>Tutto Italiano.<br/>Junio 2019 – Actualidad.<br/>Nivel A2.
 </p>
 <br/>	
 <p align=center>
-	CHINO MANDARÍN<br/>Instituto Asiático Peninsular.<br/>Enero 2021 – Febrero 2022.<br/>HSK 1.
+	CHINO MANDARÍN<br/>Instituto Asiático Peninsular.<br/>Enero 2021 – Febrero 2022.<br/>Nivel HSK 1.
 </p>
 <br/>
 <p align=center>
-	CHINO MANDARÍN<br/>IAprendo Chino Mandarín En Línea.<br/>Septiembre 2021 – Actualidad.<br/>HSK 1.
+	CHINO MANDARÍN<br/>IAprendo Chino Mandarín En Línea.<br/>Septiembre 2021 – Actualidad.<br/>Nivel HSK 2.
 </p>
 <br/>
 		  
